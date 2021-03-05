@@ -4,5 +4,5 @@ Devices that can read or switch 16 inputs or 16 outputs. The Data can be placed 
 
 <img alt=" " src=https://github.com/GeertGiebens/LocoNet-or-DCC-Input-Output-Device-with-16-ports/blob/master/LocoNet%20input%20Device.png>
 
-<img alt="open opps 1" src=https://github.com/GeertGiebens/LocoNet-or-DCC-Input-Output-Device-with-16-ports/blob/master/LocoNet%20(DCC)%20Output%20Device.png>
+<img alt=" " src=https://github.com/GeertGiebens/LocoNet-or-DCC-Input-Output-Device-with-16-ports/blob/master/LocoNet%20(DCC)%20Output%20Device.png>
 
