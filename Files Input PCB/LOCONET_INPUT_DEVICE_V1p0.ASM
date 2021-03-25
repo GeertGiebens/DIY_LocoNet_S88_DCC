@@ -39,7 +39,7 @@
 ;*        DIP Address 5   | 17 RC2   2   RC5 24 |      poort 4             *
 ;*        DIP Address 6   | 18 RC3   0   RC4 23 |      poort 3             *
 ;*        DIP Address 7   | 19 RD0       RD3 22 |      poort 2             *
-;*        DIP Address 8    | 20 RD1       RD2 21 |      poort 1            *
+;*        DIP Address 8   | 20 RD1       RD2 21 |      poort 1            *
 ;*                         _____________________                           *
 ;*                                                                         *								    
 ;***************************************************************************
@@ -70,10 +70,10 @@
     ORG 00000h
 
 
- 	GOTO MAIN						;LOCONET_IO_V6p0.ASM
+ 	GOTO MAIN	
  
     ORG 00018h
-	GOTO Low_Priority_Interrupt		;LOCONET_18F4X20_V6p0.INC
+	GOTO Low_Priority_Interrupt		;LOCONET_18F4X20_INPUT_V1p0.INC
 
 	
 ;********************************************************************************
@@ -285,7 +285,7 @@ LUS
 VOLGENDE
         CALL TEST_INGANG                    ;LOCONET_IO_INGANG_INPUT_V1p0.INC
         CALL TEST_NIEUWE_TE_VERZENDEN_DATA  ;LOCONET_IO_PROCEDURES_INPUT_V1p0.INC
-        CALL DECODEER_LOCONET_DATA          ;LOCONET_DECODEER_INPUT_16p0.INC
+        CALL DECODEER_LOCONET_DATA          ;LOCONET_DECODEER_INPUT_V1p0.INC
 
         GOTO LUS
 
