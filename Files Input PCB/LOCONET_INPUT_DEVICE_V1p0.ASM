@@ -39,7 +39,7 @@
 ;*        DIP Address 5   | 17 RC2   2   RC5 24 |      poort 4             *
 ;*        DIP Address 6   | 18 RC3   0   RC4 23 |      poort 3             *
 ;*        DIP Address 7   | 19 RD0       RD3 22 |      poort 2             *
-;*        DCC IN          | 20 RD1       RD2 21 |      poort 1            *
+;*        DIP Address 8    | 20 RD1       RD2 21 |      poort 1            *
 ;*                         _____________________                           *
 ;*                                                                         *								    
 ;***************************************************************************
