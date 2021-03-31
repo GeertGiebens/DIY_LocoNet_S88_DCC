@@ -1,6 +1,6 @@
 
 ;***************************************************************************
-;* LocoNet Output module met PIC 18F4620 microcontroller                   *
+;* LocoNet Input module met PIC 18F4620 microcontroller                    *
 ;*                                                                         *
 ;* Geschreven door Geert Giebens                                           *
 ;*                                                                         *
@@ -16,7 +16,7 @@
 ;*     	                                                                   *
 ;*     	                                                                   *
 ;* Aanpassingen versie 1.0:                                                *
-;*  -04/03/21: Algemene aanpassingen van Loconet IO naar Loconet OUTPUT    *
+;*  -04/03/21: Algemene aanpassingen van Loconet IO naar Loconet INPUT     *
 ;*     	                                                                   *
 ;*     	                                                                   *  
 ;*                         _____________________                           *
