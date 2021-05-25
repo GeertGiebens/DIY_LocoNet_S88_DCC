@@ -16,5 +16,5 @@
 
 - LocoNet connection: The circuits can also be connected in series via pin headers whereby LocoNet signals must at least run over cables.
 
-- ###Cost price:### And lastly, DIY is cheap!
+- Cost price: And lastly, DIY is cheap!
 
