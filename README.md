@@ -17,5 +17,3 @@
 - LocoNet connection: The circuits can also be connected in series via pin headers whereby LocoNet signals must at least run over cables.
 
 - Cost price: And lastly, DIY is cheap!
-
-[Components needed to communicate with LocoNet](https://github.com/GeertGiebens/LocoNet_IO/blob/master/LOCONET%20HARDWARE.png)
