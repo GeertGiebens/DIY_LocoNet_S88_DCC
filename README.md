@@ -18,4 +18,4 @@
 
 - Cost price: And lastly, DIY is cheap!
 
-<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/master/PCB%20LocoNet-DCC%2016%20Output%20ports.png>
+<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/master/PCB%20LocoNet-DCC%2016%20output%20ports.png>
