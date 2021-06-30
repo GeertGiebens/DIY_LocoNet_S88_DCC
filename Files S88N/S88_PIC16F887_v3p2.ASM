@@ -11,7 +11,7 @@
 ;*  INTERRUPT routine aangepast: copy DATA IN bijgevoegd 		  *
 ;*                        					          *
 ;*                         _____________________		          *
-;*                LATCH   | 1  RE3 *  *  RB7 40 | S88 ingang 31           *
+;*                LATCH   | 1  RE3 *  *  RB7 40 | S88 ingang 32           *
 ;*             DATA OUT   | 2  RA0  **   RB6 39 | S88 ingang 31           *
 ;*        S88 ingang  1   | 3  RA1       RB5 38 | S88 ingang 30           *
 ;*        S88 ingang  2   | 4  RA2       RB4 37 | S88 ingang 29           *
@@ -39,7 +39,7 @@
 
 
 ;********************************************************************
-;************ µCONTROLLER AFHANKELIJKE INSTELLINGEN *****************
+;************ ÂµCONTROLLER AFHANKELIJKE INSTELLINGEN *****************
 ;********************************************************************
 
 	list		p=16f887	; list directive to define processor
