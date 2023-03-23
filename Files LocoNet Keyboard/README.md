@@ -1,4 +1,4 @@
-## PCB voor uitbreiding toetsenbord zoals deze van Intellibox.
+### PCB voor uitbreiding toetsenbord zoals deze van Intellibox.
 
 - De software is zodanig  aangepast zodat de toetsen werken in dezelfde volgorde  (van links naar rechts) zoals deze bij Intellibox en met dezelfde mogelijkheden.
 
@@ -7,7 +7,7 @@
 - De verbinding via LocoNet PCB en PCB met drukknoppen verloopt via flatkabel. De PCB met drukknoppen kan opgesplitst worden in 2 zodat 2 rijen toetsen  verkregen worden i.p.v. 4. Zie foto’s. De PCB kunnen met elkaar verbonden worden via haakse connectoren 6pin i.p.v. RJ12 connectoren.
  
 
-## PCB for extension keyboard like this one from Intellibox.
+### PCB for extension keyboard like this one from Intellibox.
 
 - The software has been adapted so that the keys work in the same order (from left to right) as they do with Intellibox and with the same options.
 
