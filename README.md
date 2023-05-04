@@ -19,3 +19,5 @@
 - Cost price: And lastly, DIY is cheap!
 
 <img alt="open opps 1" src=https://github.com/GeertGiebens/LocoNet-12F683/blob/master/LocoNet%20OUT%20with%20PIC%2012F683%20%C2%B5C.png>
+
+<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/master/LOCONET%20IN-OUT.png>
