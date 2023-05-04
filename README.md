@@ -20,4 +20,4 @@
 
 
 
-<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/main/LOCONET%20IN-OUT.png>
+<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/Files%20Output%20PCB/blob/main/PCB%20LocoNet%20V6.png>
