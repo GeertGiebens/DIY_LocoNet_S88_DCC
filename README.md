@@ -21,5 +21,5 @@
 
 ### PCB for 16 outputs with LocoNet communication. More info on this link: [LocoNet Output PCB](/Files%20Output%20PCB/)
 
-<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/main/Files%20Output%20PCB/LocoNet_OUTPUT_G.png>
+<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/main/Files%20Output%20PCB/LocoNet_OUTPUT_K.png>
 
