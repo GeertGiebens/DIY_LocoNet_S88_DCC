@@ -18,7 +18,7 @@
 
 - Cost price: And lastly, DIY is cheap!
 
-[install](/Files%20Output%20PCB/README.md)
+[install](/Files%20Output%20PCB/)
 
 [LocoNet Output PCB](https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/Files%20Output%20PCB/README.md)
 
