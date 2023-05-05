@@ -1,4 +1,4 @@
-# DIY LocoNet circuits for 16 inputs or 16 outputs:
+## DIY LocoNet circuits for 16 inputs or 16 outputs:
 
 - DIY: these circuits can be copied yourself with a word of explanation.
 
