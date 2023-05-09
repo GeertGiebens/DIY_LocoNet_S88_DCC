@@ -17,3 +17,5 @@ The addresses to which the outputs react can be set in binary via DIP1-7 in step
 - DIP S/I= OFF: the outputs respond to LocoNet command OPC_SW_REQ DIR='0' or '1'.
 
 - DIP S/I= ON: the outputs respond to LocoNet command OPC_INPUT_REP L='0' or '1'. This makes it possible to make feedback messages visible on a synoptic board. By placing the series resistors of the LEDs on the PCB and using flat-cable where an LED output is alternated with ground, each LED can be soldered separately to its own 2 wires. (see example below)
+
+<img alt="open opps 1" src=https://github.com/GeertGiebens/DIY_LocoNet_S88_DCC/blob/main/Files%20Output%20PCB/LocoNet_LED_connect.png>
