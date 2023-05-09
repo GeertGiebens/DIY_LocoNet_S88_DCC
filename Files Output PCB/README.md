@@ -12,7 +12,7 @@
 
 - DIP10= OFF: Each output responds to 1 address.
 
-- DIP10= ON: A combination of 2 consecutive outputs respond to the same address. One output on switch command with DIR = '0' or L = '0' and next output on switch command with DIR = '1' or L = '1'. (represented on PCB as SR F-F)
+- DIP10= ON: A combination of 2 consecutive outputs respond to the same address. One output on switch command with DIR = '0' and next output on switch command with DIR = '1'. (represented on PCB as SR F-F)
 
 - DIP11: because with DIP10=ON the 16 outputs can only switch at 8 addresses, this DIP can be used to set which series of 8 addresses the outputs respond to. DIP11=OFF then the outputs switch at the first 8 addresses, DIP11=ON the last 8 addresses. (Represented on PCB as 1-8/ 9-16)
 
