@@ -8,7 +8,7 @@ The addresses to which the outputs react can be set in binary via DIP1-7 in step
 
 - DIP9= OFF: output remains high when activated.
 
-- DIP9= ON: output drops out after 250ms when activated. This time is sufficient for most alternating coils. (represented as 250 on PCB)
+- DIP9= ON: output drops out after 250ms when activated. This time is sufficient for most alternating coils. (represented as 250%25 on PCB)
 
 - DIP10= OFF: Each output responds to 1 address.
 
