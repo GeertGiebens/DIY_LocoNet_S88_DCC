@@ -1,6 +1,5 @@
-### Under construction (09/05/2023)
+### Under construction (11/05/2023)
 
-     PCB gerber file follow later
 
 ### Brief explanation of controlling outputs PCB via LocoNet commands:
 
