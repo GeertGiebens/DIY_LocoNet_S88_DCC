@@ -17,6 +17,7 @@
 - LocoNet connection: The circuits can also be connected in series via pin headers whereby LocoNet signals must at least run over cables.
 
 - Cost price: And lastly, DIY is cheap!
+- 
 
 
 #### PCB for 16 outputs with LocoNet communication. More info on this link: [LocoNet Output PCB](/Files%20Output%20PCB/)
