@@ -1,5 +1,6 @@
 ## DIY LocoNet circuits for 16 inputs or 16 outputs:
 
+
 - DIY: these circuits can be copied yourself with a word of explanation.
 
 - Components: Not too many components are used on each circuit. Mostly standard electronic components are used (outside the PIC microcontroller).
