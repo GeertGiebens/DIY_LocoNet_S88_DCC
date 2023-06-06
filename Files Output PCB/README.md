@@ -1,6 +1,3 @@
-### Under construction (30/05/2023)
-
-
 ### Brief explanation of controlling outputs PCB via LocoNet commands:
 
 - The addresses to which the outputs react can be set in binary via DIP1-7 in steps of 16. (maximum range 2048)
