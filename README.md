@@ -13,8 +13,6 @@
 
 - Replacement: A circuit can be easily and quickly replaced by another circuit for the same application and addressing by adopting the position of the DIP switches.
 
-- Flat cable: The possibility is provided to make maximum use of flat cable connections. Flat cable connections are easily (and quickly) self-made without screws or soldering. Flat cable connections can be replaced quickly and flat cables provide an overview of the wiring train table.
-
 - LocoNet connection: The circuits can also be connected in series via pin headers whereby LocoNet signals must at least run over cables.
 
 - Cost price: And lastly, DIY is cheap!
